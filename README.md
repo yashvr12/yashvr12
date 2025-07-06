@@ -77,7 +77,3 @@ Python, Data Science, Machine Learning basics, or how to get started after BCA.
 
 ---
 
-### ⚡ Recent GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yashvr12&bg_color=0d1117&color=ffffff&line=00ff00&point=ff007f&area=true&hide_border=true" alt="Activity Graph" />
-</p>
