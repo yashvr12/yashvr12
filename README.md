@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Choudhary</h1>
 <h3 align="center">🎓 BCA Graduate | Aspiring Data Analyst | Python • SQL • ML Enthusiast</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashvr12&theme=onedark" alt="GitHub Trophy" />
-</p>
-
 ---
 
 ### 🌱 Currently Learning  
@@ -50,7 +46,38 @@ Python, Data Science, Machine Learning basics, or how to get started after BCA.
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashvr12&theme=darkhub" alt="Trophies" />
+</p>
+<!-- 🐍 Snake Contribution Graph Animation -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
+
 ### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvr12&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashvr12&show_icons=true&theme=radical" alt="Yash's GitHub Stats" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yashvr12&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📌 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvr12&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Recent GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yashvr12&bg_color=0d1117&color=ffffff&line=00ff00&point=ff007f&area=true&hide_border=true" alt="Activity Graph" />
 </p>
