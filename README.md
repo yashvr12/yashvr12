@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yash Choudhary</h1>
+<h3 align="center">🎓 BCA Graduate | Aspiring Data Analyst | Python • SQL • ML Enthusiast</h3>
 
-<!--
-**yashvr12/yashvr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashvr12&theme=onedark" alt="GitHub Trophy" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning  
+Data Science, Machine Learning, and Python for real-world problem solving.
+
+### 💻 All of My Projects Are Available At  
+[📂 github.com/yashvr12](https://github.com/yashvr12)
+
+### 💬 Ask Me About  
+Python, Data Science, Machine Learning basics, or how to get started after BCA.
+
+### 📫 Reach Me At  
+📧 yc4413@gmail.com
+
+### 📄 Resume  
+[View My Resume](https://drive.google.com/file/d/1cvLNl-B6HdqMU-Fe6F-wjxCBvYJddmcm/view?usp=sharing)
+
+---
+
+### 🤝 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/yash-choudhary-653593250/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvr12&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
