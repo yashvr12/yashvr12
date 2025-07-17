@@ -16,7 +16,7 @@ Python, Data Science, Machine Learning basics, or how to get started after BCA.
 📧 yc4413@gmail.com
 
 ### 📄 Resume  
-[View My Resume](https://drive.google.com/file/d/1cvLNl-B6HdqMU-Fe6F-wjxCBvYJddmcm/view?usp=sharing)
+[View My Resume]([https://drive.google.com/file/d/1cvLNl-B6HdqMU-Fe6F-wjxCBvYJddmcm/view?usp=sharing](https://drive.google.com/file/d/1ioENW6NQEy0TQUjl4tfu8ICOxOKHG0Xo/view?usp=sharing))
 
 ---
 
